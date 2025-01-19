@@ -3,5 +3,6 @@ export const FooterSection = () => {
         <footer>
             <p>&copy; 2024 Nabin Poudel. All Rights Reserved.</p>
         </footer>
+
     )
 }
